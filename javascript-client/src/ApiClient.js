@@ -26,9 +26,9 @@
     if (!root.SwaggerPetstore) {
       root.SwaggerPetstore = {};
     }
-    root.SwaggerPetstore.ApiClient = factory(root.superagent, root.querystring, root.data);
+    root.SwaggerPetstore.ApiClient = factory(root.superagent, root.querystring);
   }
-}(this, function(superagent, querystring, data) {
+}(this, function(superagent, querystring) {
   'use strict';
 
   /**
