@@ -11,7 +11,6 @@
  * Swagger Codegen version: 2.2.3
  *
  * Do not edit the class manually.
- *
  */
 (function(root, factory) {
   if (typeof define === 'function' && define.amd) {
