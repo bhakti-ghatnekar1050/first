@@ -26,7 +26,6 @@
   }
 }(this, function(superagent, querystring, data1) {
   'use strict';
-
   /**
    * @module ApiClient
    * @version 1.0.0
